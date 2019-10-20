@@ -11,9 +11,11 @@ import javax.swing.JComponent;
 import javax.swing.JFrame;
 
 /**
- *
- * @author bishalblue
- */
+ @author bishalblue
+ ->machine learning enthusiast
+ @editor zaheen
+ ->coder
+*/
 class carcomponent extends JComponent{
     /**
      * 
@@ -31,6 +33,7 @@ public class Car {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("i don");
         JFrame frame=new JFrame();
         frame.setTitle("Car Rendering");
         frame.setSize(1280, 720);
